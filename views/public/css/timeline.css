@@ -1,0 +1,52 @@
+#timelines h1 {
+	margin-bottom: 1em;	
+}
+
+.tl-slider-container h2,
+.tl-slider-container h3 {
+	text-align: left;
+}
+ 
+html body .tl-timeline h2.tl-headline-title {
+	 font-size: 28px;
+	 line-height: 30px;
+ }
+ 
+html body .tl-medium .tl-text h2.tl-headline, 
+html body .tl-medium .tl-text h2.tl-headline-title,
+html body .tl-skinny .tl-text h2.tl-headline, 
+html body .tl-skinny .tl-text h2.tl-headline-title
+ {
+	 font-size: 24px;
+	 line-height: 24px;
+	
+ }
+ 
+.tl-slider-container .tl-slide-text-only .tl-slide-content-container .tl-slide-content .tl-text {
+	max-width: 100%;
+	width: 100%;
+}
+
+.tl-timeline {
+	border: 1px solid #737373;
+}
+
+.tl-timeline .tl-timeaxis {
+	height: 49px;
+}
+
+.tl-timeline .tl-attribution {
+	display: none;
+}
+
+.noscript .timeline {
+	display: none;
+}
+
+.timeline-block p { 
+	margin: 0; 
+}
+
+.timeline-block p.caption { 
+	margin: .25em 0 1.5em 0;
+}
